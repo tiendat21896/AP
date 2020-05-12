@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="Program.cs" />
+      <None Include="Program.cs" />
+      <Compile Remove="Assignment5\Program.cs" />
+      <None Include="Assignment5\Program.cs" />
+      <Compile Remove="Session6\Program.cs" />
+      <None Include="Session6\Program.cs" />
+      <Compile Remove="Lab6\Program.cs" />
+      <None Include="Lab6\Program.cs" />
+      <Compile Remove="Lab6CBT\Program.cs" />
+      <None Include="Lab6CBT\Program.cs" />
+      <Compile Remove="Session7\Program.cs" />
+      <None Include="Session7\Program.cs" />
+      <Compile Remove="Lab3\Program.cs" />
+      <None Include="Lab23\Program.cs" />
+      <Compile Remove="Session8\Session8.cs" />
+      <None Include="Session8\Session8.cs" />
+      <Compile Remove="Lab23\Program.cs" />
+      <None Include="Lab23\Program.cs" />
+      <Compile Remove="Lab8\Boom.cs" />
+      <None Include="Lab8\Boom.cs" />
+      <Compile Remove="Assignment6\Fibonaci.cs" />
+      <None Include="Assignment6\Fibonaci.cs" />
+      <Compile Remove="Assignment6\Program.cs" />
+      <None Include="Assignment6\Program.cs" />
+      <Compile Remove="Session8\Session8.2.cs" />
+      <None Include="Session8\Session8.2.cs" />
+      <Compile Remove="Assignment7\Program.cs" />
+      <None Include="Assignment7\Program.cs" />
+    </ItemGroup>
+
+</Project>
